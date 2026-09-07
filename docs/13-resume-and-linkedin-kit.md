@@ -14,7 +14,7 @@ Copy, adapt, and paste for **Product Manager** and **Product Analyst** applicati
 
 **Grant Thornton Bharat LLP** — Gurugram, India
 
-**Senior Associate Grade 3** · Sep 2025 – Present · Hybrid · Client: **BCG**
+**Senior Associate Grade 3** · Jul 2026 – Present · Hybrid · Client: **BCG**
 
 - Lead delivery on a BCG engagement: scope, milestones, stakeholder alignment, and sign-off across hybrid teams
 - Translate business requirements into implementation plans with clear success criteria and tracked outcomes
