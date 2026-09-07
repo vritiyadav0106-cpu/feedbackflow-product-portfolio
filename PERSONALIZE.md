@@ -14,7 +14,9 @@ Your portfolio is set up for **Product Manager** and **Product Analyst** roles.
 | **GitHub** | https://github.com/vritiyadav0106-cpu/feedbackflow-product-portfolio |
 | **Live portfolio** | https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/portfolio/ |
 | **Live demo** | https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/feedbackflow/ |
-| **Location** | _________________________ |
+| **Location** | Gurugram, Haryana, India |
+| **Current role** | Senior Associate Grade 3 — Grant Thornton Bharat LLP (Sep 2025 – Present) |
+| **Prior role** | Senior Associate — Grant Thornton Bharat LLP (Sep 2024 – Sep 2025) |
 | **Education** | B.A. (Hons) Economics — Kirori Mal College, University of Delhi (Nov 2021 – Jul 2024) |
 | **Headline** | Product · Manager & Analyst |
 
@@ -22,13 +24,13 @@ Your portfolio is set up for **Product Manager** and **Product Analyst** roles.
 
 ## Optional — add when you have it
 
-- [ ] **Location** (e.g. Delhi NCR) — share it and we'll add to portfolio
+- [ ] **Specific project examples** from Grant Thornton (if you want stronger product bullets)
 
 ---
 
 ## Already done for you
 
-- [x] Portfolio tailored for PM + Product Analyst
+- [x] Grant Thornton experience (product-framed) on portfolio
 - [x] Education added (KMC, Delhi University, Economics Hons)
 - [x] Non-tech positioning (“product lead”, prototype not production)
 - [x] Analytics skills section for PA roles

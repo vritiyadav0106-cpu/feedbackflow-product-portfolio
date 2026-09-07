@@ -10,6 +10,24 @@ Copy, adapt, and paste for **Product Manager** and **Product Analyst** applicati
 
 ---
 
+## Resume — work experience (product framing)
+
+**Grant Thornton Bharat LLP** — Gurugram, India
+
+**Senior Associate Grade 3** · Sep 2025 – Present · Hybrid
+
+- Lead client project delivery: scope, milestones, stakeholder alignment, and sign-off across hybrid teams
+- Translate business requirements into implementation plans with clear success criteria and tracked outcomes
+- Coordinate cross-functional stakeholders to resolve tradeoffs, manage risks, and keep delivery on track
+
+**Senior Associate** · Sep 2024 – Sep 2025 · Full-time
+
+- Supported end-to-end project implementation from discovery through client handoff
+- Documented requirements and aligned multiple stakeholders on priorities and timelines
+- Produced analyses and deliverables that informed leadership and client decisions
+
+---
+
 ## Resume — project bullets (pick 2–3)
 
 **FeedbackFlow** — Product Case Study | *2026*
@@ -45,6 +63,9 @@ Copy, adapt, and paste for **Product Manager** and **Product Analyst** applicati
 I'm exploring Product Manager and Product Analyst roles where I can connect user needs,
 data, and clear product decisions.
 
+Currently Senior Associate at Grant Thornton Bharat (Gurugram), with 2+ years in
+stakeholder management, structured delivery, and client-facing project implementation.
+
 Education: B.A. (Hons) Economics, Kirori Mal College, University of Delhi.
 
 Recently I built FeedbackFlow — an end-to-end product case study:
@@ -58,8 +79,8 @@ discovery, requirements, metrics, and prototypes that prove ideas before heavy b
 Open to PM and Product Analyst opportunities.
 
 📧 Vritiyadav076@gmail.com
-🔗 Portfolio: [YOUR_URL]/portfolio/
-🚀 Live demo: [YOUR_URL]/feedbackflow/
+🔗 Portfolio: https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/portfolio/
+🚀 Live demo: https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/feedbackflow/
 ```
 
 ---
