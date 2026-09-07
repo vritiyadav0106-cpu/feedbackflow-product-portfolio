@@ -9,19 +9,20 @@ A live URL on your resume beats "runs on my laptop." This guide gets you there f
 ### Step 1 — Create GitHub repo
 
 ```bash
-cd "/Users/arnavsharma/Desktop/APM Project"
-git init
+cd feedbackflow-product-portfolio
 git add .
 git commit -m "Add FeedbackFlow APM portfolio project"
 ```
 
-Create a new repo on GitHub (e.g. `feedbackflow-apm-portfolio`), then:
+Create a new repo on GitHub (e.g. `feedbackflow-product-portfolio`), then:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/feedbackflow-apm-portfolio.git
+git remote add origin https://github.com/vritiyadav0106-cpu/feedbackflow-product-portfolio.git
 git branch -M main
 git push -u origin main
 ```
+
+Add a root `index.html` that redirects to `portfolio/` so visitors land on your portfolio, not this README.
 
 ### Step 2 — Enable Pages
 
@@ -33,8 +34,9 @@ git push -u origin main
 ### Step 3 — Your live URLs
 
 ```
-Portfolio: https://YOUR_USERNAME.github.io/feedbackflow-apm-portfolio/portfolio/
-Product:   https://YOUR_USERNAME.github.io/feedbackflow-apm-portfolio/feedbackflow/
+Portfolio: https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/portfolio/
+Product:   https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/feedbackflow/
+Root:      https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/  → redirects to portfolio
 ```
 
 ### Step 4 — Fix links (if needed)
@@ -47,7 +49,7 @@ Portfolio links use relative paths (`../feedbackflow/`). They work on GitHub Pag
 
 1. Go to [app.netlify.com](https://app.netlify.com)
 2. **Add new site** → **Deploy manually**
-3. Drag the entire `APM Project` folder
+3. Drag the project folder (or connect your GitHub repo)
 4. Netlify gives you a URL like `https://random-name.netlify.app`
 5. Add paths: `/portfolio/` and `/feedbackflow/`
 

@@ -4,13 +4,23 @@ Everything is built. Your job now is **read → run → personalize → apply**.
 
 ---
 
-## Step 1 — Run it (2 min)
+## Step 1 — View it live (instant)
+
+| Page | URL |
+|------|-----|
+| **Portfolio** | https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/portfolio/ |
+| **FeedbackFlow app** | https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/feedbackflow/ |
+
+---
+
+## Step 2 — Run locally (optional)
 
 **Mac:** Double-click `Start Portfolio.command` in Finder.
 
-**Or Terminal:**
+**Or Terminal** (after cloning this repo):
+
 ```bash
-cd "/Users/arnavsharma/Desktop/APM Project"
+cd feedbackflow-product-portfolio
 chmod +x start.sh
 ./start.sh
 ```
@@ -21,28 +31,28 @@ Open:
 
 ---
 
-## Step 2 — Read the full story (25 min)
+## Step 3 — Read the full story (25 min)
 
 Open **[`docs/14-complete-narrative.md`](docs/14-complete-narrative.md)** — one document, entire project.
 
 ---
 
-## Step 3 — Deep dive (when you have time)
+## Step 4 — Deep dive (when you have time)
 
 Follow **[`docs/00-START-HERE.md`](docs/00-START-HERE.md)** for the full reading order.
 
 ---
 
-## Step 4 — Personalize (15 min)
+## Step 5 — Personalize (15 min)
 
 Edit **[`PERSONALIZE.md`](PERSONALIZE.md)** — your email, LinkedIn, GitHub, bio.
 
 ---
 
-## Step 5 — Apply (when ready)
+## Step 6 — Apply (when ready)
 
 - Resume bullets: [`docs/13-resume-and-linkedin-kit.md`](docs/13-resume-and-linkedin-kit.md)
-- Deploy online: [`docs/12-deployment-guide.md`](docs/12-deployment-guide.md)
+- Deploy online: already live on GitHub Pages (see Step 1)
 - Check readiness: [`INTERVIEW-READY-CHECKLIST.md`](INTERVIEW-READY-CHECKLIST.md)
 
 ---

@@ -12,25 +12,40 @@ This repo contains:
 
 ---
 
+## Live site
+
+| Page | URL |
+|------|-----|
+| **Portfolio** | https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/portfolio/ |
+| **FeedbackFlow app** | https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/feedbackflow/ |
+
+The site root redirects to the portfolio. This README is for developers browsing the repo on GitHub.
+
+---
+
 ## Quick start — run in 2 minutes
 
 You need only a **web browser**. No Node.js, no database, no install.
 
-### Option A — Open directly (simplest)
+### Option A — Live online (simplest)
+
+Open the **Live site** links above — no install needed.
+
+### Option B — Open files locally
 
 1. Open **`feedbackflow/index.html`** in Chrome or Safari (double-click the file).
 2. Open **`portfolio/index.html`** the same way for your portfolio site.
 
-> Some browsers restrict local file links. If portfolio → product links break, use Option B.
+> Some browsers restrict local file links. If portfolio → product links break, use Option C.
 
-### Option B — Local server (recommended)
+### Option C — Local server (for development)
 
 **Easiest:** Double-click `Start Portfolio.command` (Mac)
 
-**Or** from Terminal:
+**Or** from Terminal (after cloning this repo):
 
 ```bash
-cd "/Users/arnavsharma/Desktop/APM Project"
+cd feedbackflow-product-portfolio
 chmod +x start.sh
 ./start.sh
 ```
@@ -45,7 +60,7 @@ Then open in your browser:
 
 Press `Ctrl+C` in the terminal to stop the server.
 
-### Option C — VS Code Live Server
+### Option D — VS Code Live Server
 
 1. Install the **Live Server** extension in VS Code / Cursor.
 2. Right-click `feedbackflow/index.html` → **Open with Live Server**.
@@ -74,7 +89,7 @@ Capture feedback → Promote to feature → Score with RICE → See ranked backl
 ## Project structure
 
 ```
-APM Project/
+feedbackflow-product-portfolio/
 ├── README.md                 ← You are here
 ├── feedbackflow/             ← The product MVP
 │   ├── index.html            ← Page structure (screens, forms)
@@ -239,20 +254,13 @@ Full scripts: [`docs/09-interview-prep-guide.md`](docs/09-interview-prep-guide.m
 
 ---
 
-## Deploy online (optional, for resume link)
+## Deploy online
 
-### GitHub Pages (free)
+This project is live on GitHub Pages:
 
-1. Create a GitHub repo and push this folder
-2. Settings → Pages → Source: `main` branch, folder `/` (root)
-3. Your site: `https://yourusername.github.io/repo-name/portfolio/`
-4. Product: `https://yourusername.github.io/repo-name/feedbackflow/`
-
-### Netlify (free, drag-and-drop)
-
-1. Go to [netlify.com](https://www.netlify.com)
-2. Drag the entire `APM Project` folder
-3. Set publish directory to project root
+- **Portfolio:** https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/portfolio/
+- **Product:** https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/feedbackflow/
+- **Repo:** https://github.com/vritiyadav0106-cpu/feedbackflow-product-portfolio
 
 ---
 
