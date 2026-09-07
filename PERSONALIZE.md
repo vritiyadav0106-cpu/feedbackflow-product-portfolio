@@ -17,7 +17,7 @@ Your portfolio is set up for **Product Manager** and **Product Analyst** roles.
 | **Location** | Gurugram, Haryana, India |
 | **Current role** | Senior Associate Grade 3 — Grant Thornton Bharat LLP (Jul 2026 – Present) |
 | **Current client** | Boston Consulting Group (BCG) — https://www.bcg.com/ |
-| **Prior role** | Senior Associate — Grant Thornton Bharat LLP (Sep 2024 – Sep 2025) |
+| **Prior role** | Senior Associate — Grant Thornton Bharat LLP (Sep 2024 – Jul 2026) |
 | **Prior client** | Happay (Travel & Expense platform) — https://happay.com/ |
 | **Education** | B.A. (Hons) Economics — Kirori Mal College, University of Delhi (Nov 2021 – Jul 2024) |
 | **Headline** | Product · Manager & Analyst |

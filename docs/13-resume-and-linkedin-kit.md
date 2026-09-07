@@ -20,7 +20,7 @@ Copy, adapt, and paste for **Product Manager** and **Product Analyst** applicati
 - Translate business requirements into implementation plans with clear success criteria and tracked outcomes
 - Coordinate cross-functional stakeholders to resolve tradeoffs, manage risks, and keep delivery on track
 
-**Senior Associate** · Sep 2024 – Sep 2025 · Full-time · Client: **Happay** (T&E platform)
+**Senior Associate** · Sep 2024 – Jul 2026 · Full-time · Client: **Happay** (T&E platform)
 
 - Supported end-to-end implementation for Happay — discovery through client handoff on product-adjacent workflows
 - Documented requirements from finance, ops, and leadership; aligned teams on priorities and timelines
