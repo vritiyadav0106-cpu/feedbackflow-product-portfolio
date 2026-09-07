@@ -14,17 +14,17 @@ Copy, adapt, and paste for **Product Manager** and **Product Analyst** applicati
 
 **Grant Thornton Bharat LLP** — Gurugram, India
 
-**Senior Associate Grade 3** · Sep 2025 – Present · Hybrid
+**Senior Associate Grade 3** · Sep 2025 – Present · Hybrid · Client: **BCG**
 
-- Lead client project delivery: scope, milestones, stakeholder alignment, and sign-off across hybrid teams
+- Lead delivery on a BCG engagement: scope, milestones, stakeholder alignment, and sign-off across hybrid teams
 - Translate business requirements into implementation plans with clear success criteria and tracked outcomes
 - Coordinate cross-functional stakeholders to resolve tradeoffs, manage risks, and keep delivery on track
 
-**Senior Associate** · Sep 2024 – Sep 2025 · Full-time
+**Senior Associate** · Sep 2024 – Sep 2025 · Full-time · Client: **Happay** (T&E platform)
 
-- Supported end-to-end project implementation from discovery through client handoff
-- Documented requirements and aligned multiple stakeholders on priorities and timelines
-- Produced analyses and deliverables that informed leadership and client decisions
+- Supported end-to-end implementation for Happay — discovery through client handoff on product-adjacent workflows
+- Documented requirements from finance, ops, and leadership; aligned teams on priorities and timelines
+- Produced analyses and deliverables that informed product and business decisions
 
 ---
 
@@ -64,7 +64,7 @@ I'm exploring Product Manager and Product Analyst roles where I can connect user
 data, and clear product decisions.
 
 Currently Senior Associate at Grant Thornton Bharat (Gurugram), with 2+ years in
-stakeholder management, structured delivery, and client-facing project implementation.
+stakeholder management and client delivery — including engagements with BCG and Happay.
 
 Education: B.A. (Hons) Economics, Kirori Mal College, University of Delhi.
 
@@ -73,8 +73,8 @@ Recently I built FeedbackFlow — an end-to-end product case study:
 • Solution: inbox + RICE prioritization MVP
 • Artifacts: PRD, personas, user stories, metrics plan, roadmap
 
-I'm not from an engineering background. I lead with structured product thinking —
-discovery, requirements, metrics, and prototypes that prove ideas before heavy build.
+I lead with structured product thinking — discovery, requirements, metrics,
+and prototypes that prove ideas before heavy build.
 
 Open to PM and Product Analyst opportunities.
 

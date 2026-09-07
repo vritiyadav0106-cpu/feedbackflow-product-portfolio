@@ -16,7 +16,9 @@ Your portfolio is set up for **Product Manager** and **Product Analyst** roles.
 | **Live demo** | https://vritiyadav0106-cpu.github.io/feedbackflow-product-portfolio/feedbackflow/ |
 | **Location** | Gurugram, Haryana, India |
 | **Current role** | Senior Associate Grade 3 — Grant Thornton Bharat LLP (Sep 2025 – Present) |
+| **Current client** | Boston Consulting Group (BCG) — https://www.bcg.com/ |
 | **Prior role** | Senior Associate — Grant Thornton Bharat LLP (Sep 2024 – Sep 2025) |
+| **Prior client** | Happay (Travel & Expense platform) — https://happay.com/ |
 | **Education** | B.A. (Hons) Economics — Kirori Mal College, University of Delhi (Nov 2021 – Jul 2024) |
 | **Headline** | Product · Manager & Analyst |
 
@@ -24,7 +26,8 @@ Your portfolio is set up for **Product Manager** and **Product Analyst** roles.
 
 ## Optional — add when you have it
 
-- [ ] **Specific project examples** from Grant Thornton (if you want stronger product bullets)
+- [x] BCG + Happay client context on experience section
+- [ ] **Specific deliverables** per client (if you want even stronger bullets)
 
 ---
 
