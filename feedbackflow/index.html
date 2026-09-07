@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FeedbackFlow — Feedback Inbox & RICE Prioritization</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">◆</span>
+        <div>
+          <h1>FeedbackFlow</h1>
+          <p class="tagline">Capture feedback. Prioritize with RICE.</p>
+        </div>
+      </div>
+      <nav class="tab-nav" role="tablist" aria-label="Main navigation">
+        <button class="tab active" data-tab="dashboard" role="tab" aria-selected="true">Dashboard</button>
+        <button class="tab" data-tab="inbox" role="tab" aria-selected="false">Inbox</button>
+        <button class="tab" data-tab="backlog" role="tab" aria-selected="false">Backlog</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <!-- Dashboard -->
+    <section id="panel-dashboard" class="panel active" role="tabpanel">
+      <div class="panel-header">
+        <h2>Dashboard</h2>
+        <p>At-a-glance view of feedback volume and top priority.</p>
+      </div>
+      <div class="stats-grid" id="stats-grid"></div>
+      <div class="card">
+        <h3>Feedback by source</h3>
+        <div id="source-breakdown" class="source-breakdown"></div>
+      </div>
+      <div class="card highlight-card">
+        <h3>How to use FeedbackFlow</h3>
+        <ol class="how-to-list">
+          <li><strong>Inbox</strong> — Log feedback from support, sales, interviews, or social.</li>
+          <li><strong>Promote</strong> — Turn recurring themes into feature ideas.</li>
+          <li><strong>Backlog</strong> — Score each feature with RICE to rank priorities.</li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Inbox -->
+    <section id="panel-inbox" class="panel" role="tabpanel" hidden>
+      <div class="panel-header">
+        <h2>Feedback Inbox</h2>
+        <p>Centralize user signals before they become roadmap items.</p>
+      </div>
+
+      <div class="card form-card">
+        <h3>Add feedback</h3>
+        <form id="feedback-form">
+          <div class="form-group">
+            <label for="feedback-text">Feedback <span class="required">*</span></label>
+            <textarea id="feedback-text" rows="3" placeholder="e.g. Users keep asking for bulk CSV export from the reports page..." required minlength="10"></textarea>
+            <span class="hint">Minimum 10 characters</span>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="feedback-source">Source</label>
+              <select id="feedback-source">
+                <option value="support">Support</option>
+                <option value="sales">Sales</option>
+                <option value="interview">User interview</option>
+                <option value="social">Social</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="feedback-submitter">Submitter type</label>
+              <select id="feedback-submitter">
+                <option value="end-user">End user</option>
+                <option value="internal">Internal</option>
+                <option value="prospect">Prospect</option>
+              </select>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary">Add to inbox</button>
+        </form>
+      </div>
+
+      <div class="card">
+        <div class="card-toolbar">
+          <h3>Inbox <span id="inbox-count" class="badge">0</span></h3>
+        </div>
+        <div id="inbox-list" class="item-list"></div>
+      </div>
+    </section>
+
+    <!-- Backlog -->
+    <section id="panel-backlog" class="panel" role="tabpanel" hidden>
+      <div class="panel-header">
+        <h2>Feature Backlog</h2>
+        <p>Features ranked by RICE score — highest priority first.</p>
+      </div>
+      <div class="rice-legend card">
+        <strong>RICE</strong> = (Reach × Impact × Confidence) ÷ Effort
+        <span class="legend-detail">Reach 1–10 · Impact 0.25–3 · Confidence 0–100% · Effort in person-weeks</span>
+      </div>
+      <div id="backlog-list" class="backlog-list"></div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <footer class="app-footer">
+    <p>FeedbackFlow MVP — Portfolio project for APM roles. Data saved in your browser only.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
