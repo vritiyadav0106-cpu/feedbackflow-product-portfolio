@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FeedbackFlow — PRD summary | Vriti Yadav</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="artifact.css">
+</head>
+<body>
+  <article class="artifact-page">
+    <a href="../index.html#project" class="artifact-back">← Back to portfolio</a>
+    <h1>FeedbackFlow — PRD summary</h1>
+    <p class="artifact-meta">MVP v1.0 · Vriti Yadav</p>
+
+    <h2>Overview</h2>
+    <p>
+      Web tool for capturing user feedback, promoting themes to feature ideas, and prioritizing with RICE —
+      built for early-stage PMs who need clarity without heavyweight product ops software.
+    </p>
+
+    <h2>Goals</h2>
+    <table>
+      <thead>
+        <tr><th>Goal</th><th>Success signal</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Faster feedback capture</td><td>Log an item in under 2 minutes</td></tr>
+        <tr><td>Consistent prioritization</td><td>Every promoted feature has a RICE score</td></tr>
+        <tr><td>Clear decisions</td><td>Can explain top 3 priorities in a review</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Out of scope (MVP)</h2>
+    <ul>
+      <li>Authentication and multi-tenant workspaces</li>
+      <li>Third-party integrations and automated sentiment</li>
+      <li>Native mobile apps</li>
+    </ul>
+
+    <h2>Core flows</h2>
+    <ul>
+      <li><strong>Capture:</strong> Add feedback with source and submitter type → appears in inbox</li>
+      <li><strong>Promote:</strong> Convert inbox item to backlog feature → enter RICE → auto-sort</li>
+      <li><strong>Review:</strong> Dashboard highlights volume, top priority, and source mix</li>
+    </ul>
+
+    <h2>Key requirements (P0)</h2>
+    <table>
+      <thead>
+        <tr><th>Area</th><th>Requirement</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Inbox</td><td>Add, list, and delete feedback; validate minimum detail</td></tr>
+        <tr><td>Backlog</td><td>RICE fields with live score calculation and sort</td></tr>
+        <tr><td>Dashboard</td><td>Counts, top feature by score, source breakdown</td></tr>
+        <tr><td>Data</td><td>Persist in browser for demo and usability tests</td></tr>
+      </tbody>
+    </table>
+  </article>
+</body>
+</html>

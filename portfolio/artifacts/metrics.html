@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FeedbackFlow — Metrics plan | Vriti Yadav</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="artifact.css">
+</head>
+<body>
+  <article class="artifact-page">
+    <a href="../index.html#project" class="artifact-back">← Back to portfolio</a>
+    <h1>FeedbackFlow — Metrics plan</h1>
+    <p class="artifact-meta">North star & funnel · Vriti Yadav</p>
+
+    <h2>North star</h2>
+    <p>
+      <strong>Time to prioritization decision (TTPD)</strong> — hours from receiving a batch of feedback
+      to having a ranked top-three backlog.
+    </p>
+    <p>
+      Target for the primary persona: reduce weekly prioritization time from ~4 hours on spreadsheets
+      to under 1 hour using a single inbox + RICE workflow.
+    </p>
+
+    <h2>Activation</h2>
+    <table>
+      <thead>
+        <tr><th>Metric</th><th>Definition</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>First feedback logged</td><td>User adds first inbox item in session one</td></tr>
+        <tr><td>First feature scored</td><td>User completes RICE on at least one backlog item</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Leading indicators</h2>
+    <ul>
+      <li>Share of feedback promoted to features (inbox → backlog loop)</li>
+      <li>Share of backlog items with complete RICE inputs</li>
+      <li>Time from promote to first scored feature</li>
+    </ul>
+
+    <h2>How I’d measure in production</h2>
+    <p>
+      Instrument the three core events (feedback created, feature promoted, RICE saved), weekly cohort review
+      with PM users, and qualitative checks in stakeholder reviews — can they defend the top three without reopening spreadsheets?
+    </p>
+  </article>
+</body>
+</html>

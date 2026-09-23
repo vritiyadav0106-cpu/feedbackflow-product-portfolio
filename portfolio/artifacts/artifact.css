@@ -1,0 +1,71 @@
+/* Case study artifact pages — extends portfolio styles */
+
+.artifact-page {
+  padding: 6rem 1.5rem 4rem;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.artifact-back {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--primary);
+  margin-bottom: 1.5rem;
+}
+
+.artifact-back:hover {
+  text-decoration: underline;
+}
+
+.artifact-page h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  margin-bottom: 0.35rem;
+}
+
+.artifact-meta {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+}
+
+.artifact-page h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 1.75rem 0 0.75rem;
+}
+
+.artifact-page p,
+.artifact-page li {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin-bottom: 0.65rem;
+}
+
+.artifact-page ul {
+  padding-left: 1.25rem;
+}
+
+.artifact-page table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  margin: 1rem 0;
+}
+
+.artifact-page th,
+.artifact-page td {
+  border: 1px solid var(--border);
+  padding: 0.5rem 0.65rem;
+  text-align: left;
+}
+
+.artifact-page th {
+  background: var(--surface);
+  font-weight: 600;
+}
+
+.artifact-page td {
+  color: var(--text-muted);
+}

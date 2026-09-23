@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local study / template files — not for public repo
+docs/
+commit-review/
+PERSONALIZE.md
+READ-ME-FIRST.md
+INTERVIEW-READY-CHECKLIST.md
+start.sh
+Start Portfolio.command
